@@ -1,4 +1,6 @@
 # Hi, I'm Steve — nice to meet you!
+[![Tech Whispers](https://img.shields.io/badge/Tech%20Whispers-black?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/_techwhispers)[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=white&color=FF7731)](https://techwhispers.substack.com)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/techwhispers)
+
 
 I'm orchestrating AI to amplify human creativity and harmonize with nature. From hand-crafted AI agents to cinematic storytelling, I build tools that empower dreamers to shape a permapunk future.
 
