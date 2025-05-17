@@ -13,9 +13,10 @@ I'm orchestrating AI to amplify human creativity and harmonize with nature. From
 ---
 
 🚀 **Current Projects**
-- **Tech Whispers:** A multimodal series weaving tech insights with homestead wisdom. Episodes on the brew—stay tuned!
-- **Hand-Crafted Orchestration:** Building multi-agent systems inspired by nature’s ecosystems, where each agent plays a role in a larger workflow. Check my repos for orchestration experiments!
-- **Solarpunk Inspired Visuals:** Creating visuals that fuse tech and nature in a permapunk style.
+- **Homestead Hub App:** The Homestead Hub is my shared family homesteading system designed to help me on the Homestead to keep track of tasks and whats cracking in the forest garden which is a mare and to get the kids involved in playing with AI, its their future we programming after all. .
+- **Tech Whispers:** A multimodal series weaving tech insights with homestead wisdom. Episodes on the brew—stay on substack!
+- **Hand-Crafted Orchestration:** Building multi-agent systems inspired by nature’s ecosystems, where each agent plays a role in a larger workflow. Check my work and writings for orchestration experiments matching Nvida Agent IQ.
+- **Solarpunk Inspired Visuals:** Creating visuals that fuse tech and nature in a new PermaPunk style.
 
 > Tech isn’t just code—it’s a garden. I plant seeds, nurture them with human ingenuity, and watch them grow into tools that free us to dream bigger. Join me in cultivating a world where tech and nature thrive together.
 
