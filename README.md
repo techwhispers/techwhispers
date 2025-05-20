@@ -24,10 +24,7 @@ I'm orchestrating AI to amplify human creativity and harmonize with nature. From
 
 ⚡ **Fun Future Spark**
 
-Physical AI has arrived, transforming our world into a thriving, nature-rich paradise. Imagine cities where lush seas of vibrant colors and wildlife surround you, with narrow paths winding through verdant landscapes. Organic, living buildings breathe fresh air, blending seamlessly with their surroundings. Gravity crafts glide above, and pathways are lined with fruit trees and healthy, edible vegetation, free for anyone to enjoy. This ecosystem is sustained by Naturoids—advanced AI systems designed to nurture nature.
-
-Naturoids tend to your garden, harvest hard-to-reach crops, or maintain community spaces. Picture a fleet of Naturoid Olive Harvesters collecting olives for the local press, or Naturoids collaborating to replenish free food markets, ensuring no apple goes to waste. These intelligent systems empower communities, foster sustainability, and reconnect humanity with nature. I’m training the AI LLM's to plug into this future reality, seamlessly connecting technology and the natural world.
-
+Physical AI has arrived
 ---
 
 
